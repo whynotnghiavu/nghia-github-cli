@@ -33,10 +33,11 @@ if __name__ == "__main__":
 
     list_name = [
         # "nghia-learn-nestjs",
-        "nghia-view-usb",
-        "nghia-windows-unikey",
+        # "nghia-chrome-passwords",
 
-        "nghia-github-push",
+        # "nghia-windows-unikey",
+        # "nghia-windows-unikey",
+        # "nghia-github-push",
 
 
 
