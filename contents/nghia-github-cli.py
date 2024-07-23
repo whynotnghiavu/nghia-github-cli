@@ -32,9 +32,18 @@ if __name__ == "__main__":
 # gh auth refresh -h github.com -s delete_repo
 
     list_name = [
-        "nghia-windows-autohotkey",
+        "nghia-view-usb",
+        "nghia-windows-unikey",
 
-        # "nghia-course",
+        "nghia-github-push",
+
+
+        "nghia-nestjs",
+
+        # "nghia-windows-unikey",
+        # "nghia-windows-unikey",
+        # "nghia-windows-unikey",
+
         # "nghia-push",
         # "nghia-test-tikz",
 
@@ -45,7 +54,6 @@ if __name__ == "__main__":
 
         # "nghia-google-map",
         # "nghia-scrapy-topcv-crawler",
-        # "nghia-view-tree",
 
         # "nghia-note",
         # "nghia-step-recorder",
@@ -54,7 +62,8 @@ if __name__ == "__main__":
     list_name = list(set(list_name))
 
     for name in list_name:
-        print(f"🚀 {name}")
+        print(f"🚀 \033[32m{name}\033[0m")
+
 
         Create(name, "public")
         # Create(name, "private")
