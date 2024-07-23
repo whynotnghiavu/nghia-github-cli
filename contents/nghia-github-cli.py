@@ -32,7 +32,17 @@ if __name__ == "__main__":
 # gh auth refresh -h github.com -s delete_repo
 
     list_name = [
-        # "nghia-learn-nestjs",
+        "nghia-vscode",
+
+
+        "nghia-windows",
+
+        "nghia-ubuntu",
+
+
+
+
+        "nghia-learn-nestjs",
         # "nghia-chrome-passwords",
 
         # "nghia-windows-unikey",
@@ -64,7 +74,6 @@ if __name__ == "__main__":
 
     for name in list_name:
         print(f"🚀 \033[32m{name}\033[0m")
-
 
         Create(name, "public")
         # Create(name, "private")
