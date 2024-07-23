@@ -23,6 +23,8 @@ def Create(name, type):
 
 if __name__ == "__main__":
     author = "vuvannghia452002"
+    author = "vuvannghia452002"
+    author = "vuvannghia452002"
     author = "whynotnghiavu"
 
 
