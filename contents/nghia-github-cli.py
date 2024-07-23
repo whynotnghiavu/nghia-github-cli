@@ -32,8 +32,7 @@ if __name__ == "__main__":
 # gh auth refresh -h github.com -s delete_repo
 
     list_name = [
-        # "nghia-github-cli",
-        # "nghia-windows-autohotkey-main",
+        "nghia-windows-autohotkey",
 
         # "nghia-course",
         # "nghia-push",
