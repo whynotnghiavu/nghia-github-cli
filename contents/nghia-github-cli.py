@@ -32,17 +32,16 @@ if __name__ == "__main__":
 # gh auth refresh -h github.com -s delete_repo
 
     list_name = [
-        "nghia-vscode",
+        # "nghia-format-gui",
+        # "nghia-vscode",
+        # "nghia-windows",
+        # "nghia-ubuntu",
+        # "nghia-learn-nestjs",
 
 
-        "nghia-windows",
-
-        "nghia-ubuntu",
 
 
 
-
-        "nghia-learn-nestjs",
         # "nghia-chrome-passwords",
 
         # "nghia-windows-unikey",
