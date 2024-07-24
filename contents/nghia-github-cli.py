@@ -33,10 +33,10 @@ if __name__ == "__main__":
 
     list_name = [
         # "nghia-format-gui",
-        # "nghia-vscode",
-        # "nghia-windows",
-        # "nghia-ubuntu",
         # "nghia-learn-nestjs",
+        # "nghia-vscode",
+        "nghia-windows",
+        "nghia-ubuntu",
 
 
 
