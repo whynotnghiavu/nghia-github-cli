@@ -35,10 +35,14 @@ if __name__ == "__main__":
         # "nghia-format-gui",
         # "nghia-learn-nestjs",
         # "nghia-vscode",
-        "nghia-windows",
-        "nghia-ubuntu",
+        # "nghia-windows",
+        # "nghia-ubuntu",
+
+# "nghia-auto-microsoft-forms",
+# "nghia-contact-manager",
 
 
+"nghia-work-first",
 
 
 
