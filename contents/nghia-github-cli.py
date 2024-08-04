@@ -45,7 +45,6 @@ if __name__ == "__main__":
 "nghia-work-first",
 
 
-"nghia-icon",
 
 
 
