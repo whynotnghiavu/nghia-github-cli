@@ -38,11 +38,11 @@ if __name__ == "__main__":
         # "nghia-windows",
         # "nghia-ubuntu",
 
-# "nghia-auto-microsoft-forms",
-# "nghia-contact-manager",
+        # "nghia-auto-microsoft-forms",
+        # "nghia-contact-manager",
 
 
-"nghia-work-first",
+        # "nghia-work-cv",
 
 
 
