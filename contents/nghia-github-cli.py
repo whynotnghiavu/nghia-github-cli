@@ -50,29 +50,18 @@ if __name__ == "__main__":
 
         # "nghia-chrome-passwords",
 
-        # "nghia-windows-unikey",
-        # "nghia-windows-unikey",
-        # "nghia-github-push",
 
 
 
-        # "nghia-windows-unikey",
-        # "nghia-windows-unikey",
-        # "nghia-windows-unikey",
 
-        # "nghia-push",
-        # "nghia-test-tikz",
 
         # "nghia-delete-empty-folder",
         # "nghia-rename-time",
         # "nghia-ubuntu-link",
         # "nghia-ubuntu",
 
-        # "nghia-google-map",
         # "nghia-scrapy-topcv-crawler",
 
-        # "nghia-note",
-        # "nghia-step-recorder",
     ]
 
     list_name = list(set(list_name))
