@@ -31,12 +31,7 @@ if __name__ == "__main__":
 # gh auth login
 # gh auth refresh -h github.com -s delete_repo
 
-    list_name = [
-        # "nghia-format-gui",
-        # "nghia-learn-nestjs",
-        # "nghia-vscode",
-        # "nghia-windows",
-        # "nghia-ubuntu",
+    list_name = [ 
 
         # "nghia-auto-microsoft-forms",
         # "nghia-contact-manager",
@@ -44,21 +39,9 @@ if __name__ == "__main__":
 
         # "nghia-work-cv",
 
-"einvoice-system",
+        "einvoice-system",
 
 
-
-        # "nghia-chrome-passwords",
-
-
-
-
-
-
-        # "nghia-delete-empty-folder",
-        # "nghia-rename-time",
-        # "nghia-ubuntu-link",
-        # "nghia-ubuntu",
 
         # "nghia-scrapy-topcv-crawler",
 
