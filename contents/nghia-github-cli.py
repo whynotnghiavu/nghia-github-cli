@@ -31,7 +31,7 @@ if __name__ == "__main__":
 # gh auth login
 # gh auth refresh -h github.com -s delete_repo
 
-    list_name = [ 
+    list_name = [
 
         # "nghia-auto-microsoft-forms",
         # "nghia-contact-manager",
