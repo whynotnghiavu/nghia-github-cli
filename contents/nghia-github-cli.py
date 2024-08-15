@@ -34,7 +34,7 @@ if __name__ == "__main__":
     list_name = [
 
         # "nghia-auto-microsoft-forms",
-        # "nghia-contact-manager",
+        "nghia-contact-manager",
 
 
         # "nghia-work-cv",
