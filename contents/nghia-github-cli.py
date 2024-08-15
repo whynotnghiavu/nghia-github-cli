@@ -14,11 +14,11 @@ def Create(name, type):
     )
 
 
-# def Delete(name):
-#     subprocess.run(
-#         f" gh repo delete --yes {name} ",
-#         shell=True
-#     )
+def Delete(name):
+    subprocess.run(
+        f" gh repo delete --yes {name} ",
+        shell=True
+    )
 
 
 if __name__ == "__main__":
@@ -39,7 +39,9 @@ if __name__ == "__main__":
 
         # "nghia-work-cv",
 
-        "einvoice-system",
+        # "einvoice-system",
+        
+        "nghia-internship",
 
 
 
