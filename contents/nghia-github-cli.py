@@ -35,7 +35,9 @@ if __name__ == "__main__":
 
         # "nghia-auto-microsoft-forms",
         "nghia-contact-manager",
+        "nghia-python-requirements",
 
+"nghia-oop-adapter-round-square",
 
         # "nghia-work-cv",
 
