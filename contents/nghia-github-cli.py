@@ -88,11 +88,11 @@ if __name__ == "__main__":
 
  
 # "20241",
-"nghia-extensions-xem-video",
+# "nghia-extensions-xem-video",
 # Xóa nghia-chrome  1 2 3 
 
-"nghia-extensions-xem-video",
-find text
+# "nghia-extensions-find-text",
+ 
  
 
     ]
