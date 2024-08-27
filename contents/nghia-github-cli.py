@@ -33,20 +33,20 @@ if __name__ == "__main__":
 
     list_name = [
 
-#         # "nghia-auto-microsoft-forms",
-#         "nghia-contact-manager",
-#         "nghia-python-requirements",
+        #         # "nghia-auto-microsoft-forms",
+        #         "nghia-contact-manager",
+        #         "nghia-python-requirements",
 
-# "nghia-oop-adapter-round-square",
+        # "nghia-oop-adapter-round-square",
 
-#         # "nghia-work-cv",
+        #         # "nghia-work-cv",
 
-#         # "einvoice-system",
-        
-#         # "nghia-internship",
+        #         # "einvoice-system",
+
+        #         # "nghia-internship",
 
 
-#         "nghia-einvoice-system",
+        #         "nghia-einvoice-system",
 
 
 
@@ -54,46 +54,52 @@ if __name__ == "__main__":
 
 
 
-        
-#  "nghia-contact-manager",
 
-#  "nghia-crawl-data-scrapy-topcv-crawler",
+        #  "nghia-contact-manager",
 
-#  "nghia-einvoice-system",
+        #  "nghia-crawl-data-scrapy-topcv-crawler",
 
-#  "nghia-oop-adapter-round-square",
-#  "nghia-extensions-create-file",
-#  "nghia-extensions-create-folder",
+        #  "nghia-einvoice-system",
 
-
-
-
-#  "nghia-extensions-create-folder",
-
-# nghia-delete-empty-folder
-# nghia-delete-empty-folder
-# nghia-delete-empty-folder
-# nghia-delete-empty-folder
-# nghia-delete-empty-folder
+        #  "nghia-oop-adapter-round-square",
+        #  "nghia-extensions-create-file",
+        #  "nghia-extensions-create-folder",
 
 
 
-# "nghia-extensions-rename-time",
-# "nghia-extensions-delete-empty-folder",
-# "nghia-extensions-video-VN",
-# "nghia-extensions-convert-text-pascal",
+
+        #  "nghia-extensions-create-folder",
+
+        # nghia-delete-empty-folder
+        # nghia-delete-empty-folder
+        # nghia-delete-empty-folder
+        # nghia-delete-empty-folder
+        # nghia-delete-empty-folder
 
 
-# "nghia-extensions-filter-file",
+
+        # "nghia-extensions-rename-time",
+        # "nghia-extensions-delete-empty-folder",
+        # "nghia-extensions-video-VN",
+        # "nghia-extensions-convert-text-pascal",
+
+
+        # "nghia-extensions-filter-file",
+
+
+        # "20241",
+        # "nghia-extensions-xem-video",
+
+        # "nghia-extensions-find-text",
+        # "nghia-extensions-shutdown-computer",
+
 
  
-# "20241",
-# "nghia-extensions-xem-video",
-# Xóa nghia-chrome  1 2 3 
 
-# "nghia-extensions-find-text",
- 
- 
+
+
+
+
 
     ]
 
