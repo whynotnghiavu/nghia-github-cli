@@ -33,17 +33,17 @@ if __name__ == "__main__":
 
     list_name = [
 
-        #         # "nghia-auto-microsoft-forms",
+        # "nghia-auto-microsoft-forms",
         #         "nghia-contact-manager",
         #         "nghia-python-requirements",
 
         # "nghia-oop-adapter-round-square",
 
-        #         # "nghia-work-cv",
+        # "nghia-work-cv",
 
-        #         # "einvoice-system",
+        # "einvoice-system",
 
-        #         # "nghia-internship",
+        # "nghia-internship",
 
 
         #         "nghia-einvoice-system",
@@ -94,12 +94,12 @@ if __name__ == "__main__":
         # "nghia-extensions-shutdown-computer",
 
 
- 
 
 
 
 
 
+        "nghia-work-backend",
 
     ]
 
