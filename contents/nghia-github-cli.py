@@ -88,7 +88,6 @@ if __name__ == "__main__":
 
 
         # "20241",
-        # "nghia-extensions-xem-video",
 
         # "nghia-extensions-find-text",
         # "nghia-extensions-shutdown-computer",
@@ -99,7 +98,11 @@ if __name__ == "__main__":
 
 
 
-        "nghia-work-backend",
+        # "nghia-work-backend",
+
+
+
+        "VideoWatch", 
 
     ]
 
